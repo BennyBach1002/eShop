@@ -17,7 +17,6 @@ import ReviewProducts from "./components/reviewProducts/ReviewProducts";
 import NotFound from "./pages/notFound/NotFound";
 
 function App() {
-  console.log(process.env)
   return (
     <>
       <BrowserRouter>
